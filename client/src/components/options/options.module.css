@@ -1,0 +1,20 @@
+.options {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid #d4d4d4;
+  background-color: #f7f7f7;
+  border-radius: 0 0 5px 5px;
+  max-height: 120px;
+  overflow: scroll;
+}
+
+.options li {
+  list-style: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.options li:hover {
+  background-color: #d4d4d4;
+}

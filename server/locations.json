@@ -1,0 +1,400 @@
+{
+  "locations": [
+    {
+      "city": "les Escaldes",
+      "country": "Andorra"
+    },
+    {
+      "city": "Andorra la Vella",
+      "country": "Andorra"
+    },
+    {
+      "city": "Umm al Qaywayn",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Ras al-Khaimah",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Khawr Fakkān",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Dibba Al-Fujairah",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Dibba Al-Hisn",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Sharjah",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Ar Ruways",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Al Fujayrah",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Al Ain",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Ajman",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Adh Dhayd",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates"
+    },
+    {
+      "city": "Zaranj",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Taloqan",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Shīnḏanḏ",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Shibirghān",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Shahrak",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Sar-e Pul",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Sang-e Chārak",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Aībak",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Rustāq",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Qarqīn",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Qarāwul",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Pul-e Khumrī",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Paghmān",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Nahrīn",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Maymana",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Mehtar Lām",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Mazār-e Sharīf",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Lashkar Gāh",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Kushk",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Kunduz",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Khōst",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Khulm",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Khāsh",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Khanabad",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Karukh",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Kandahār",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Kabul",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Jalālābād",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Jabal os Saraj",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Herāt",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Ghormach",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Ghazni",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Gereshk",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Gardēz",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Fayzabad",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Farah",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Kafir Qala",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Charikar",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Barakī Barak",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Bāmyān",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Balkh",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Baghlān",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Ārt Khwājah",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Āsmār",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Asadābād",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Andkhōy",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Bāzārak",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Markaz-e Woluswalī-ye Āchīn",
+      "country": "Afghanistan"
+    },
+    {
+      "city": "Saint John’s",
+      "country": "Antigua and Barbuda"
+    },
+    {
+      "city": "The Valley",
+      "country": "Anguilla"
+    },
+    {
+      "city": "Sarandë",
+      "country": "Albania"
+    },
+    {
+      "city": "Kukës",
+      "country": "Albania"
+    },
+    {
+      "city": "Korçë",
+      "country": "Albania"
+    },
+    {
+      "city": "Gjirokastër",
+      "country": "Albania"
+    },
+    {
+      "city": "Elbasan",
+      "country": "Albania"
+    },
+    {
+      "city": "Burrel",
+      "country": "Albania"
+    },
+    {
+      "city": "Vlorë",
+      "country": "Albania"
+    },
+    {
+      "city": "Tirana",
+      "country": "Albania"
+    },
+    {
+      "city": "Shkodër",
+      "country": "Albania"
+    },
+    {
+      "city": "Patos Fshat",
+      "country": "Albania"
+    },
+    {
+      "city": "Lushnjë",
+      "country": "Albania"
+    },
+    {
+      "city": "Lezhë",
+      "country": "Albania"
+    },
+    {
+      "city": "Laç",
+      "country": "Albania"
+    },
+    {
+      "city": "Kuçovë",
+      "country": "Albania"
+    },
+    {
+      "city": "Krujë",
+      "country": "Albania"
+    },
+    {
+      "city": "Kavajë",
+      "country": "Albania"
+    },
+    {
+      "city": "Fier-Çifçi",
+      "country": "Albania"
+    },
+    {
+      "city": "Fier",
+      "country": "Albania"
+    },
+    {
+      "city": "Durrës",
+      "country": "Albania"
+    },
+    {
+      "city": "Berat",
+      "country": "Albania"
+    },
+    {
+      "city": "Kapan",
+      "country": "Armenia"
+    },
+    {
+      "city": "Goris",
+      "country": "Armenia"
+    },
+    {
+      "city": "Hats’avan",
+      "country": "Armenia"
+    },
+    {
+      "city": "Artashat",
+      "country": "Armenia"
+    },
+    {
+      "city": "Ararat",
+      "country": "Armenia"
+    },
+    {
+      "city": "Yerevan",
+      "country": "Armenia"
+    },
+    {
+      "city": "Ejmiatsin",
+      "country": "Armenia"
+    },
+    {
+      "city": "Spitak",
+      "country": "Armenia"
+    },
+    {
+      "city": "Sevan",
+      "country": "Armenia"
+    },
+    {
+      "city": "Masis",
+      "country": "Armenia"
+    },
+    {
+      "city": "Vanadzor",
+      "country": "Armenia"
+    },
+    {
+      "city": "Gavarr",
+      "country": "Armenia"
+    },
+    {
+      "city": "Hrazdan",
+      "country": "Armenia"
+    },
+    {
+      "city": "Armavir,",
+      "country": "Armenia"
+    }
+  ]
+}
